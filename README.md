@@ -31,8 +31,7 @@
 
 🎯 **Current Project:** Working on *Laravel, PHP & Angular*  
 🌱 **Learning:** Advanced Node.js and modern JavaScript frameworks  
-💡 **Ask Me About:** Python, JavaScript, NodeJS, C#, HTML, CSS, Bootstrap, Tailwind CSS,   
-📫 **Contact:** [mindjosserge2@gmail.com](mailto:mindjosserge2@gmail.com)  
+💡 **Ask Me About:** Python, JavaScript, NodeJS, C#, HTML, CSS, Bootstrap, Tailwind CSS,    
 ⚡ **Motto:** *"Save tomorrow today !"*  
 
 ---
